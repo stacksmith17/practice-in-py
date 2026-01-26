@@ -1,6 +1,6 @@
 # while loops questions stands for wq 
 # Separate each digit of a number and print it on the new line
-a = 256
+a = int(input("tell your number :"))
 
 
 while a >0 :
